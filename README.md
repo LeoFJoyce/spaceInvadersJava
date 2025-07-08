@@ -1,10 +1,15 @@
 A classic Space Invaders game built in Java
 
-How to Play
+**How to Play**
+
 Spacebar shoots the bullets
-left and right arrow keys to move the spaceship 
-Objective destroy all aliens before they reach you 
+
+left and right arrow keys to move the spaceship
+
+Objective destroy all aliens before they reach you
+
 Aliens's get faster every wave
 
-To run the game 
+**To run the game**
+
 Run the InvaderApllication which is found in the src folder
