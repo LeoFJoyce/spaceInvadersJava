@@ -1,4 +1,5 @@
 A classic Space Invaders game built in Java
+
 How to Play
 Spacebar shoots the bullets
 left and right arrow keys to move the spaceship 
