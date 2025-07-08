@@ -4,7 +4,7 @@ A classic Space Invaders game built in Java
 
 Spacebar shoots the bullets
 
-left and right arrow keys to move the spaceship
+Left and right arrow keys to move the spaceship
 
 Objective destroy all aliens before they reach you
 
